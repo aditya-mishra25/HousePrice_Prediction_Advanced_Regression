@@ -1,48 +1,28 @@
-# Project Name
-> Outline a brief description of your project.
+# House Price Prediction
+> Advanced Linear Regression and Regularization Techniques are used here to predict the sales price of the house. this repository contains a well commented notebook for better understanding and the dataset.
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Though this problem can be solved by other algorithms like decision trees, we have used linear regression and have used ridge and lasso to tackel overfitting.
+- taking into consideration lots and lots of variables we are predicting the house price.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+- Conclusion 1 Lasso regression helps us select features which makes the model simpler.
+- Conclusion 2 Lasso penalizes the model more compared to Ridge when it comes to using more number of variables.
+- Conclusion 3 Transforming the Target Variable can help you establish linearity with the predictors.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @AdityaMishra - feel free to contact me!
 
 
 <!-- Optional -->
